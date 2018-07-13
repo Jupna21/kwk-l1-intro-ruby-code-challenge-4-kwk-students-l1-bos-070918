@@ -27,5 +27,5 @@ end
 end
 total_coins = {:quarters => numquarters, :dimes => numdimes, :nickles => numnickles, :pennies => numpennies }
 end
-puts least_coins(29)
+puts least_coins(89)
 
